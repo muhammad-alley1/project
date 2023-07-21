@@ -1,0 +1,53 @@
+/* h3{
+    color: peru;
+} */
+
+.table1{
+    border: 5px solid black;
+    margin: auto;
+}
+
+.div1{
+    border: 3px solid red;
+}
+.img1{
+    width: 100%;
+    border-radius: 5px;
+}
+.card-1-h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(177, 200, 150);
+}
+.card-1-p{
+    text-align: justify;
+    text-align-last: center;
+}
+
+.div2{
+    border: 3px solid red;
+}
+.div3{
+    border: 3px solid red;
+}
+.div4{
+    border: 3px solid red;
+}
+.div5{
+    border: 3px solid red;
+}
+.div6{
+    border: 3px solid red;
+}
+.button-1{
+    color: white;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: black;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
